@@ -4,7 +4,8 @@
  - You are player 1 'X' and player 'O' is player 2.
  - Player 1 press any empty box to begin the game play or click 'Let player 2 play first' button.
  - Press refresh 🔄 button on browser's  address bar to 'restart' the game.
- - Otherwise after completing a match it'll automatically refresh. 
+ - Otherwise after completing a match it'll automatically refresh.
+ - The result is shown in pop-up. 
  
  ## To Visit the Site
 
